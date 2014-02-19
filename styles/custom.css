@@ -1,0 +1,54 @@
+/* line 6, ../../app/styles/custom.scss */
+body {
+  background-color: white;
+  font-family: 'EB Garamond', serif;
+}
+
+/* line 10, ../../app/styles/custom.scss */
+.page {
+  height: 100vh;
+}
+
+/* line 13, ../../app/styles/custom.scss */
+.sub-nav {
+  background-color: #cc6699;
+  color: white;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+/* line 18, ../../app/styles/custom.scss */
+.sub-nav li.active a {
+  background-color: #7f3359;
+}
+
+/* line 22, ../../app/styles/custom.scss */
+.sub-nav li a {
+  color: white;
+}
+
+/* line 25, ../../app/styles/custom.scss */
+p {
+  padding: 1em;
+}
+
+/* line 28, ../../app/styles/custom.scss */
+.logo {
+  margin: auto;
+  position: relative;
+  width: 50%;
+  left: 25%;
+  padding-top: 10%;
+  height: auto;
+}
+
+/* line 36, ../../app/styles/custom.scss */
+h1, h2, h3 {
+  padding-top: 10vh;
+  text-align: center;
+  font-size: 3em;
+}
+
+/* line 41, ../../app/styles/custom.scss */
+li {
+  font-size: 2em;
+}
